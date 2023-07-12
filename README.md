@@ -2,6 +2,10 @@
 
 This is the process that is followed to develop high quality printed and scanned photos using scripts found in the Code folder  
 
+<img src="https://github.com/hovliu7/Face-Morphing-Research/assets/113165390/fadf9862-4f5e-4788-894a-e37c81d3c649" width="250" height="330">
+<img src="https://github.com/hovliu7/Face-Morphing-Research/assets/113165390/4eed3a67-d1e0-48c3-889f-8dafd8ca41c0" width="250" height="330">
+
+
 ## Presentations
 https://pages.nist.gov/ifpc/2022/presentations/29_NIST-IFPC_CITeR_Morph_Presentation_Nov_17_2022.pdf
 
